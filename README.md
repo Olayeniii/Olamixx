@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olamixx
-- 👀 I’m interested in Male and Females
-- 🌱 I’m currently learning Web development 
+- 👀 I’m interested in React.js and SQL
+- 🌱 I’m currently learning Server Scripting
 - 💞️ I’m looking to collaborate on making a game using Unity 
 - 📫 How to reach me @Ladyknoxxx on Twitter 
 - 
